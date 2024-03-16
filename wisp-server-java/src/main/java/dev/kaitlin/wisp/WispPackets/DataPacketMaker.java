@@ -1,7 +1,6 @@
-package WispPackets;
+package dev.kaitlin.wisp.WispPackets;
 
-import WispTypes.ConnectType;
-import WispTypes.WispFrame;
+import dev.kaitlin.wisp.WispTypes.*;
 
 public class DataPacketMaker {
     public static byte[] main(WispFrame wispFrame, byte[] data){

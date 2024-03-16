@@ -1,4 +1,4 @@
-package WispTypes;
+package dev.kaitlin.wisp.WispTypes;
 
 public class WispFrame {
     public ConnectType type;

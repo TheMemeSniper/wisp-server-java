@@ -1,6 +1,6 @@
-package WispPackets;
+package dev.kaitlin.wisp.WispPackets;
 
-import WispTypes.*;
+import dev.kaitlin.wisp.WispTypes.*;
 
 public class ContinuePacketMaker {
     public static byte[] main(WispFrame wispFrame, int queue){

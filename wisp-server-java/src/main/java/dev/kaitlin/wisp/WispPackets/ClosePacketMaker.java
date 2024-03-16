@@ -1,7 +1,6 @@
-package WispPackets;
+package dev.kaitlin.wisp.WispPackets;
 
-import WispTypes.ConnectType;
-import WispTypes.WispFrame;
+import dev.kaitlin.wisp.WispTypes.*;
 
 public class ClosePacketMaker {
         public static byte[] main(WispFrame wispFrame, int reason){

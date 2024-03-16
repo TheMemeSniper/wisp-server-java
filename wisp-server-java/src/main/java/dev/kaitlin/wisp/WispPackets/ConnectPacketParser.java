@@ -1,9 +1,9 @@
-package WispPackets;
+package dev.kaitlin.wisp.WispPackets;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 
-import WispTypes.*;
+import dev.kaitlin.wisp.WispTypes.*;
 
 public class ConnectPacketParser {
     public static ConnectPacket main(byte[] payload) {
