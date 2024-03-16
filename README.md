@@ -1,4 +1,4 @@
-# wisp-server-node
+# wisp-server-java
 
 EEEEYIKES!!!! I am starting another "project" I will never "finish"!!!!
 
